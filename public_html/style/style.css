@@ -1,0 +1,200 @@
+body {
+    background-color: #8905be;
+}
+
+* {
+    font-family:Trebuchet MS;
+    margin: 5px;
+}
+
+/* Header */
+#nome {
+    color: white;
+    font-size: 40px;
+}
+
+.botaocirculo {
+    border-radius: 100%;
+    background-color: #9824c7;
+    border: none;
+}
+
+#olhocortado {
+    width: 40px;
+    height: 40px;
+    color: white;
+}
+
+#engrenagem {
+    width: 40px;
+    height: 40px;
+    color: white;
+}
+
+#container {
+    text-align:left;
+}
+
+#left {
+    align: left;
+    display: inline-block;
+}
+
+#right {
+    float:right;
+}
+
+/* Page Content */
+.caixa {
+    background-color: #ffffff;
+    border-radius: 3px;
+    width: 450px;
+    height: 165px;
+}
+
+.titulocaixa {
+    font-size: 20px;
+}
+
+.textocaixa p {
+    margin: 6px;
+    color: #9c9c9c;
+}
+
+.valor {
+    font-size: 30px;
+}
+
+#corcredito{
+    color: #27a1de;
+}
+
+#corconta {
+    color: black;
+}
+
+#textorewards{
+    color: black;
+    font-size:20px;
+}
+
+#iconecredito{
+    color: #9c9c9c;
+    width: 25px;
+    height: 25px;
+}
+
+#iconeconta{
+    color: #9c9c9c;
+    width: 25px;
+    height: 25px;
+}
+
+#iconerewards{
+    color: #530082;
+    width: 25px;
+    height: 25px;
+}
+
+.containercontent {
+    text-align:left;
+}
+
+.leftcontent {
+    align: left;
+    display: inline-block;
+}
+
+.leftcontentesquerda {
+    margin: 6px;
+    float:left;
+}
+
+.botaocirculorewards{
+    border-radius: 100%;
+    background-color: #ecd8fb;
+    border: none;
+}
+/* Footer */
+
+.quadradofooter {
+    background-color:  #9824c7;
+    border-radius: 3px;
+    width: 100px;
+    height: 100px;
+}
+
+.textofooter {
+    color: white;
+}
+
+#pixfooter {
+    width: 30px;
+}
+
+#pagarfooter {
+    width: 30px;
+    height: 30px;
+}
+
+#amigosfooter {
+    width: 25px;
+    height: 25px;
+}
+
+#transferirfooter {
+    width: 30px;
+}
+
+#depositarfooter {
+    width: 35px;
+}
+
+#cartaofooter {
+    width: 25px;
+    height: 25px;
+}
+
+#celularfooter {
+    width: 25px;
+    height: 25px;
+}
+
+#ajustefooter {
+    width: 20px;
+    height: 20px;
+}
+
+#bloquearfooter {
+    width: 25px;
+}
+
+#cobrarfooter {
+    width: 25px;
+    height: 25px;
+}
+
+#dividirfooter {
+    width: 23px;
+    height: 23px;
+}
+
+#doacaofooter {
+    width: 35px;
+}
+
+#ajudafooter {
+    width: 20px;
+    height: 20px;
+}
+
+#listahorizontal {
+    height: 130px;
+    overflow: auto;
+}
+
+#listahorizontal div {
+    margin: 1.1px;
+    padding: 2px;
+    float: left;
+}
